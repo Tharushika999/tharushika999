@@ -1,4 +1,15 @@
-### Hi there 👋
+
+#### 
+<h1 align=center>Hi there :wave:  I am Tharushika Chamodi 👨‍💼</h1>
+<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tharushika999&color=blue" 
+                      alt="Tharushika999" />
+  <a href="https://github.com/Tharushika999">
+  <img align="right" alt="GitHub" 
+       src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=blue&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DTharushika999&longCache=true"/>
+  </a> 
+</p>
+<img src="https://github.com/Tharushika999/tharushika999/blob/main/tharushika.gif" />
 
 <!--
 **Tharushika999/tharushika999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tharushika999&color=blue" 
-                      alt="Tharushika999" />
-  <a href="https://github.com/Tharushika999">
-  <img align="right" alt="GitHub" 
-       src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=blue&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DTharushika999&longCache=true"/>
-  </a> 
-</p>
+
  
 <h3 align="center">I'm Tharushika Chamodi, I am a Management Information Systems Undergraduate at NSBM Green University, Sri Lanka. And I'm interested in Full Stack Development, UI / UX & Graphic Designing.
 <br>
@@ -63,11 +68,13 @@ Here are some ideas to get you started:
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=Tharushika999&show_icons=true" alt="akhilgkrishnan" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharushika999&layout=compact&hide=html" alt="akhilgkrishnan" />&nbsp;</p>
 
+<br>
+
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RuchiraKavinda" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RuchiraKavinda" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RuchiraKavinda" height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tharushka999" Tharushka999height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Tharushka999" height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Tharushka999" height="30" width="30" /></a>
 
 </p>
 
